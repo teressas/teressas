@@ -8,12 +8,6 @@ I've been working as a data/business analyst for the past 5 years and self-taugh
 
 💞️ I’m always looking to collaborate on projects. I prefer to code in Java and JavaScript.
 - 📫 You can reach me via email: teressas.hawaii@gmail.com 
-- Or on IG: https://www.instagram.com/honeybobatee?r=nametag
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
 
 <!---
 teressas/teressas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
