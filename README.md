@@ -21,7 +21,7 @@ Now I strive to develop fun, creative and innovative websites and web applicatio
 [Tools: Visual Studio Code, Spyder, Spring Boot, Bootstrap, Node Package Manager, Postman, Balsamiq, Justinmind, MySQLWorkBench]
 [Others: Servlets, TomCat, Apache, Dependency Injection, Rest API]
 
-https://github.com/teressas/teressas/blob/main/giphy.gif
+<img src="https://github.com/teressas/teressas/blob/main/giphy.gif" width="256 />
 
 📫 You can reach me:
 - email: teressas.hawaii@gmail.com 
