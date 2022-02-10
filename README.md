@@ -1,26 +1,4 @@
 # About Me
-
-### Hi there 👋, my name is Teressa
-#### Web Developer and Designer
-![Web Developer and Designer](https://user-images.githubusercontent.com/91032459/153338126-9fd20818-fe24-4a9a-93a7-44b178e2e44a.jpg)
-
-
-Hi, I'm Teressa from Seattle, WA. I create and design websites and applications. I'm an advocate for learning and so I enjoy trying new frameworks and technology and continuously increase my knowledge and skills. Currently, I've been working on a few projects in React and an e-commerce project in Java Spring. Please check out my github and feel free to contact me with any questions and feedback. 
-
-Skills: **REACT / JS / HTML / CSS / JAVA / PYTHON / SQL / NOSQL **
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning different react libraries. 
-- 👯 I’m looking to collaborate on creating a learn platform for children who face disabilities. 
-- 🤔 I’m looking for help with creating and designing content that is disability friendly.  
-- 💬 Ask me about projects, ideas, food, anything! 
-- ⚡ Fun fact: I eat marinara sauce straight out of the jar.  
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/teressas/teressas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/teressa-sung/)  
-
-
-
 ######
 👋 Hi, My name is Teressa Sung. 
 🌈 🌺 I was born in Honolulu, Hawaii and I'm currently living in Seattle, Washington.
@@ -44,9 +22,15 @@ Now I strive to develop fun, creative and innovative websites and web applicatio
 [Tools: Visual Studio Code, Spyder, Spring Boot, Bootstrap, Node Package Manager, Postman, Balsamiq, Justinmind, MySQLWorkBench]
 [Others: Servlets, TomCat, Apache, Dependency Injection, Rest API]
 
-📫 You can reach me:
-- email: teressas.hawaii@gmail.com 
-- linkedIn: www.linkedin.com/in/teressa-sung
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning different react libraries. 
+- 👯 I’m looking to collaborate on creating a learn platform for children who face disabilities. 
+- 🤔 I’m looking for help with creating and designing content that is disability friendly.  
+- 💬 Ask me about projects, ideas, food, anything! 
+- ⚡ Fun fact: I eat marinara sauce straight out of the jar.  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/teressas/teressas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/teressa-sung/)  
+
 
 <!---
 teressas/teressas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
