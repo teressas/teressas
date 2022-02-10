@@ -16,7 +16,6 @@ I joined a coding bootcamp and I spent 4 months learning web development in html
 Now I strive to develop fun, creative and innovative websites and web applications. Feel free to check out my github and let me know if you have any questions.
 
 💞️ I’m always looking to collaborate on projects. I currently have been creating projects in Java and React, but I also enjoy python. 
-```css
 
 [Languages: HTML, HTML5, CSS, CSS5, Javascript(ES5, ES6), Python, Java]
 [Databases: Mongo/Mongoose, NoSQL, MySQL, Oracle SQL, MSSQL]
