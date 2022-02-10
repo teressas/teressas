@@ -34,5 +34,3 @@ You can click the Preview link to take a look at your changes.
 --->
 ![pcrhm9I9_400x400](https://user-images.githubusercontent.com/91032459/153338126-9fd20818-fe24-4a9a-93a7-44b178e2e44a.jpg)
 
-[![Teressa's GitHub stats](https://github-readme-stats.vercel.app/api?username=teressas)](https://github.com/teressas/github-readme-stats)
-
