@@ -2,7 +2,8 @@
 
 ### Hi there 👋, my name is Teressa
 #### Web Developer and Designer
-![Web Developer and Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer and Designer](https://user-images.githubusercontent.com/91032459/153338126-9fd20818-fe24-4a9a-93a7-44b178e2e44a.jpg)
+
 
 Hi, I'm Teressa from Seattle, WA. I create and design websites and applications. I'm an advocate for learning and so I enjoy trying new frameworks and technology and continuously increase my knowledge and skills. Currently, I've been working on a few projects in React and an e-commerce project in Java Spring. Please check out my github and feel free to contact me with any questions and feedback. 
 
