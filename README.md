@@ -1,4 +1,4 @@
-# Welcome
+# About Me
 
 ######
 👋 Hi, My name is Teressa Sung. 
@@ -6,7 +6,7 @@
 ######
 I enjoy trying new food, animals 🐻🦉🦋🐶, nature, music and anything adventure!
 ######
-I've been working as a data/business analyst for the past 5 years and self-taught myself how to code in SQL and Python. After 3 years of teaching myself and building report automation scripts, I decided to further my coding skills by learning full stack development. 
+I worked as a data/business analyst for the past 5 years and self-taught myself how to code in SQL and Python. From teaching myself and building report automation scripts, I decided to further my coding skills by learning full stack development. 
 ######
 I joined a coding bootcamp and I spent 4 months learning web development in html, css, javascript, python, java and mern. 
 ######
@@ -14,7 +14,7 @@ Now I strive to develop fun, creative and innovative websites and web applicatio
 
 ![pcrhm9I9 200x200](giphy.gif)
 
-💞️ I’m always looking to collaborate on projects. I currently have been creating projects in Java and React, but I also enjoy python. 
+👫🏻 I’m always looking to collaborate on projects. I currently have been creating projects in Java and React, but I also enjoy python. 
 
 [Languages: HTML, HTML5, CSS, CSS5, Javascript(ES5, ES6), Python, Java]
 [Databases: Mongo/Mongoose, NoSQL, MySQL, Oracle SQL, MSSQL]
