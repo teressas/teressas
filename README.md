@@ -1,4 +1,4 @@
-# About Me
+# Welcome
 
 ######
 👋 Hi, My name is Teressa Sung. 
