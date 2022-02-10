@@ -18,8 +18,6 @@ Now I strive to develop fun, creative and innovative websites and web applicatio
 💞️ I’m always looking to collaborate on projects. I currently have been creating projects in Java and React, but I also enjoy python. 
 ```css
 
-https://giphy.com/embed/LHZyixOnHwDDy
-
 [Languages: HTML, HTML5, CSS, CSS5, Javascript(ES5, ES6), Python, Java]
 [Databases: Mongo/Mongoose, NoSQL, MySQL, Oracle SQL, MSSQL]
 [Frameworks/Libraries: Flask, Pandas, NumPy, Selenium, Matplotlib, JQuery, AJAX, BCrypt, Spring, Spring Data-JPA, Spring Security, Spring MVC, JSP, Thymeleaf, Hibernate, ReactJS, NodeJs, Express, React Bootstrap, Amazon EC2, Gunicorn, Socket.IO ]
