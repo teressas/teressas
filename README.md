@@ -1,7 +1,7 @@
 # About Me
 ######
 👋 Hi, My name is Teressa Sung. 
-🌈 🌺 I was born in Honolulu, Hawaii and I'm currently living in Seattle, Washington.
+
 ######
 I enjoy trying new food and I love animals 🐻🦉🦋🐶, nature, music and anything adventure!
 ######
