@@ -11,8 +11,6 @@ I joined a coding bootcamp and I spent 4 months learning web development in html
 ######
 Now I strive to develop fun, creative and innovative websites and web applications. Feel free to check out my github and let me know if you have any questions.
 
-![pcrhm9I9 200x200](giphy.gif)
-
 👫🏻 I’m always looking to collaborate on projects. I currently have been creating projects in Java and React, but I also enjoy python. 
 
 <h3 align="left">Languages and Tools:</h3>
