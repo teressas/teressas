@@ -3,7 +3,7 @@
 👋 Hi, My name is Teressa Sung. 
 
 ######
-I enjoy trying new food and I love animals 🐻🦉🦋🐶, nature, music and anything adventure!
+I enjoy trying new food and I love animals, nature, music and anything adventure!
 ######
 I worked as a data/business analyst for the past 5 years and self-taught myself how to code in SQL and Python. From teaching myself and building report automation scripts, I decided to further my coding skills by learning full stack development. 
 ######
